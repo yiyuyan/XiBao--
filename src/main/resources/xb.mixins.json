@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.ksmcbrigade.XB.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "xb.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "EVENT",
+    "EVENT2"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
